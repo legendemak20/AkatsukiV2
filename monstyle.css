@@ -1,6 +1,11 @@
 #page1{ 
     text-align: center;
     background-image: url("quentin\ vignauté.jpeg");
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-color: #464646;
+background-size: cover;
 
 
 }
